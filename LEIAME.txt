@@ -1,0 +1,10 @@
+-Título do projeto: Best Ticket
+
+-Equipe: - Arthur Augusto 
+         - Francisco Neves
+         - Patrick Nunes
+
+-(
+Pesquisa de passagens
+Comparador de preço que mostra a ordem decrescente das passagens
+)

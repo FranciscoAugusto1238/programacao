@@ -1,0 +1,53 @@
+
+
+
+/*Imagens*/
+.d-block{
+    height: 520px;
+ 
+}
+
+/*Cor da pagina*/
+body{
+	
+	background-color: #808080;
+	
+}
+/*Estilos do rodapé*/
+header{
+    background-color: #DCDCDC;
+    color: #000;
+    width: 100%;
+	 height: 80px
+  
+}.best{
+    text-align: center;
+    font-size: 10px;
+}
+
+/*Estilos do rodapé*/
+footer{
+    background-color: #DCDCDC;
+    color: #000;
+    width: 100%;
+}
+.col-md-2{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.col-md-9{
+    text-align: justify;
+    margin-top: 10px;
+}
+.copyright{
+    text-align: center;
+    font-size: 14px;
+}
+
+.img-logo{
+	
+	   height: 100px;
+}
+
+
+
